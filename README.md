@@ -5,6 +5,8 @@
 yarn install
 ```
 
+`测试GitHub的团队协作开发的功能`
+
 ### Compiles and hot-reloads for development
 ```
 yarn serve
